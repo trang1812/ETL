@@ -4,7 +4,7 @@ import queries
 
 
 # connecting to database 
-conn = psycopg2.connect(host="localhost", database="superstore", user="postgres", password="Trang1812")
+conn = psycopg2.connect(host="localhost", database="superstore", user="postgres", password="xxx")
 print("connected to Database")
 
 # Function which runs postgres querries 
